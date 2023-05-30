@@ -1,6 +1,6 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 <h1 align="center">Hi 👋, I'm Ishika Gopie</h1>
 <h3 align="center">A passionate developer from Trinidad</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikagopie&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagopie" /> </p>
 
