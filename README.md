@@ -7,7 +7,6 @@
 
 ## About Me
 - 🎓 Currently pursuing a **Master’s degree in Data Science**
-- 🌱 Currently learning **PHP** while strengthening my data science foundation
 - 📊 Interested in **machine learning, data analysis, system design, and full-stack development**
 - 🚀 Goal: Build meaningful, real-world projects and contribute to impactful work
 - ⚡ Fun fact: I enjoy **architecting systems more than writing code**
@@ -56,17 +55,6 @@
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
   </a> 
 </p>
-
----
-
-## Featured Projects
-> (Replace these with your real projects)
-
-- **Project Name** – Short description of what the project does  
-  https://github.com/yourusername/project  
-- **Another Project** – What problem it solves or what you learned  
-  https://github.com/yourusername/project  
-
 ---
 
 ## GitHub Stats
