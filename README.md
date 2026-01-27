@@ -6,6 +6,3 @@
 - 📊 Interested in **machine learning, data analysis, system design, and full-stack development**
 - 🚀 Goal: Build meaningful, real-world projects and contribute to impactful work
 - ⚡ Fun fact: I enjoy **architecting systems more than writing code**
-
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikagopie&show_icons=true&count_private=true)
