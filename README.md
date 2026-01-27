@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I enjoy **architecting systems more than writing code**
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikagopie&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishikagopie&show_icons=true&count_private=true)
